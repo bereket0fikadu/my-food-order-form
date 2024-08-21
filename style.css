@@ -1,4 +1,6 @@
-
+body {
+    background-color: #add8e6; /* Light blue */
+}
 form {
     margin: 30px;
     display: flex;
